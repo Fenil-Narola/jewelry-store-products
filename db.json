@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "classic-circle-diamond-ring",
+      "name": "Classic Circle Miracle Plate Diamond Ring",
+      "company": "kalyan",
+      "price": "2393000",
+      "colors": ["#E5B80B", "#ECC5C0", "#C3C7C7"],
+      "image": "https://www.candere.com/media/klevu_images/310X310/c/0/c012942_1_2_1.jpg",
+      "description": "You can very well guess that this diamond ring is no less than a bestseller! This eye-catching design has been made super affordable by adding the Miracle Plate. Get this Classic Diamond Ring today!",
+      "category": "ring",
+      "featured": true
+    },
+    {
+      "id": "aaron-solatire-platinum-band-ring",
+      "name": "Aaron Solitaire Platinum Band Ring",
+      "company": "kalyan",
+      "price": "2857200",
+      "colors": ["#E5B80B", "#ECC5C0", "#C3C7C7"],
+      "image": "https://www.candere.com/media/klevu_images/310X310/C/P/CPR0161__1_1.jpg",
+      "description": "Step into the future of elegance with this visionary platinum band. Meticulously crafted, this platinum diamond band showcases a contemporary design featuring sleek lines.",
+      "category": "ring"
+    },
+    {
+      "id": "kajana-diamond-necklace",
+      "name": "Kajana Solitaire Diamond Necklace",
+      "company": "kalyan",
+      "price": "2565600",
+      "colors": ["#E5B80B", "#ECC5C0", "#C3C7C7"],
+      "image": "https://www.candere.com/media/klevu_images/310X310/C/P/CPR0161__1_1.jpg",
+      "description": "Pendant comes with 16” chain. Difference in gold weight may occur & will apply on final price.",
+      "category": "necklace",
+      "featured": true
+    },
+    {
+      "id": "the-shravya-gold-chain",
+      "name": "The Shravya Gold Chain",
+      "company": "bluestone",
+      "price": "9364700",
+      "colors": ["#E5B80B"],
+      "image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BVCC0611C03_YAA22XXXXXXXXXXXX_ABCD00-PICS-00003-1024-44626.png",
+      "description": "Every piece of jewellery that we make is certified for authenticity by third-party international laboratories like SGL, IGI, BIS, GIA, and HKD.",
+      "category": "necklace",
+      "featured": true
+    }
+  ]
+}
